@@ -1,4 +1,4 @@
-name: [DEV] Java CI with Maven
+name: DEV - Java CI with Maven
 
 on:
   pull_request:
